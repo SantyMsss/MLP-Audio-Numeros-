@@ -405,25 +405,11 @@ python convert_m4a_to_wav.py
 
 ---
 
-## 📊 Mejoras Futuras
-
-- [ ] Implementar CNN o RNN para mejor rendimiento
-- [ ] Agregar data augmentation (pitch shift, time stretch)
-- [ ] Soportar frases numéricas ("veinte", "cien")
-- [ ] Reconocimiento en tiempo real desde micrófono
-- [ ] API REST para integración web
-- [ ] Aplicación móvil
-- [ ] Soporte para más idiomas
-- [ ] Reducción de ruido automática
-- [ ] Detección de voz activa (VAD)
-
----
-
 ## 👨‍💻 Desarrollo
 
 **Proyecto desarrollado como parte de:**
 - Curso: Inteligencia Artificial
-- Institución: ING SISTEMAS - Semestre 7
+- UCEVA: ING SISTEMAS - Semestre 7
 - Fecha: Noviembre 2025
 
 ### Tecnologías Implementadas:
@@ -441,31 +427,8 @@ python convert_m4a_to_wav.py
 Este proyecto es de código abierto y está disponible para fines educativos.
 
 ---
+- Presentado por:
+- Laura Sofia Toro Garcia
+- Santiago Martinez Serna
+- Santiago Alejandro Santacruz
 
-## 🤝 Contribuciones
-
-Las contribuciones son bienvenidas. Por favor:
-1. Fork del repositorio
-2. Crea una rama para tu feature
-3. Commit de tus cambios
-4. Push a la rama
-5. Abre un Pull Request
-
----
-
-## 📧 Contacto
-
-Para preguntas o sugerencias sobre este proyecto, por favor contacta al desarrollador.
-
----
-
-## 🙏 Agradecimientos
-
-- Dataset de dígitos hablados de la comunidad open source
-- Librosa por las herramientas de procesamiento de audio
-- TensorFlow/Keras por el framework de deep learning
-- Matplotlib por las visualizaciones
-
----
-
-**¡Disfruta clasificando dígitos por audio! 🎙️🤖**
